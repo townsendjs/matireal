@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'swiss';
+	src: url('swiss.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'swissb';
+	src: url('swissb.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'swissl';
+	src: url('swissl.ttf') format('truetype');
+}
